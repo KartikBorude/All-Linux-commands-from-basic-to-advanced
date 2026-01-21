@@ -470,36 +470,4 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.    524.2 avail Mem
 ==================================================================
 sleep pid & ------------------> to create process in background
 fg % pid ---------------------> to bring the process from background to foreground
-
-
 ================================================================================
-
-
-    
-   
-
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
